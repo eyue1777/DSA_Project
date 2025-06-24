@@ -29,7 +29,7 @@ This project is a simplified, command-line version control system written in C++
 2. Compile the project:
 
 ```bash
-g++ -std=c++17 -o minigit main.cpp init.cpp add.cpp commit.cpp log.cpp branch.cpp checkout.cpp merge.cpp
+g++ -std=c++17 -o minigit main.cpp init.cpp add.cpp commit.cpp log.cpp branch.cpp checkout.cpp merge.cpp utils.cpp
 ```
 
 3. Run the executable:
