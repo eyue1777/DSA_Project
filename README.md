@@ -49,7 +49,8 @@ g++ -std=c++17 -o minigit main.cpp init.cpp add.cpp commit.cpp log.cpp branch.cp
 
 
 
-## 👤 Author
+##  Author
+ all members
 
 
 ---
