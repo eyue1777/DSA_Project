@@ -1,0 +1,29 @@
+﻿# Binaries
+minigit.exe
+minigit
+
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+
+# Logs
+*.log
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/workspace files
+.vscode/
+.idea/
+
+# OS metadata
+*.swp
+*.bak
+
+# Build directories
+build/
+builds/
